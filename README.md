@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋 I'm Noah Solomon Tesfaye
 
-<!--
-**noah-solomon-tesfaye/noah-solomon-tesfaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate from Ethiopia currently pursuing an intensive Full Stack Development program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become a professional Full Stack Software Engineer by building real-world projects and continuously improving my skills.
+
+---
+
+## 🚀 Currently Learning
+
+- Python
+- Git & GitHub
+- JavaScript
+- React
+- Next.js
+- Node.js
+- NestJS
+- PostgreSQL
+- MongoDB
+- Docker
+
+---
+
+## 🎯 2026 Goals
+
+- Complete 15+ portfolio projects
+- Master Full Stack Development
+- Solve 300+ coding challenges
+- Contribute to open-source projects
+- Build a professional portfolio
+
+---
+
+## 📚 Current Focus
+
+Learning one concept deeply every day and applying it through practical projects.
+
+> "Consistency beats intensity when intensity isn't consistent."
+
+---
+
+Thanks for visiting my profile!
